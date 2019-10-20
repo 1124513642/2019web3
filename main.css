@@ -1,0 +1,12 @@
+@charset 'utf-8';
+{color: aquamarine;font-size: 16px}
+h1{center;font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";font-size: 20px}
+h2{font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";font-size: 20px;}
+<p>{line-height: 2em}
+.nav{background-color:#9f0;margin-left: 15%;margin-right: 15%;font-size: 18px}
+.copyright{border-bottom: medium;border-bottom-width: 10px
+	#wrapper
+	{width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-top-color: #333}	
